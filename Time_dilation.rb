@@ -1,2 +1,2 @@
 #Basic Form
-time = time Math.sqrt( 1 - (v**)/(c**))
+time = time * (Math.sqrt( 1 - (v**)/(c**)))
